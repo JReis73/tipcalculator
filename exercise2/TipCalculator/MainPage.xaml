@@ -8,7 +8,7 @@
 
         <HorizontalStackLayout Spacing="10">
             <Label Text="Bill" WidthRequest="100" VerticalOptions="Center"/>
-            <Entry x:Name="billInput" Placeholder="Enter Amount" Keyboard="Numeric" />
+            <Entry x:Name="billInput" Placeholder="Enter Amount" Keyboard="Numeric"/>
         </HorizontalStackLayout>
 
         <HorizontalStackLayout Spacing="10" Margin="0,20,0,0">
