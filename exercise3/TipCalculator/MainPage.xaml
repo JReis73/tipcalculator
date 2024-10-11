@@ -22,7 +22,7 @@
         <Button Text="15%" Clicked="OnNormalTip" Grid.Row="5" Grid.Column="0" Margin="5"/>
         <Button Text="20%" Clicked="OnGenerousTip" Grid.Row="5" Grid.Column="1" Margin="5"/>
 
-        <Button x:Name="roundDown" Text="Round Down" Grid.Row="6" Grid.Column="0" Margin="5"/>
+        <Button x:Name="roundDown" Text="Round Down" Grid.Row="6" Grid.Column="0" Margin="5" />
         <Button x:Name="roundUp"   Text="Round Up" Grid.Row="6" Grid.Column="1" Margin="5"/>
 
     </Grid>
